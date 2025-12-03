@@ -1,4 +1,8 @@
-## Hi there 👋<h3 align="left">Olá 👋! Meu nome é Eric e sou um programador do Brasil.</h3>
+## Hi there 👋<h3 align="left">Olá 👋! Hey! I'm Eric 👋  
+Fullstack Developer from Brazil 🇧🇷
+
+I love building robust, scalable applications and crafting solutions that make life easier for users and teams. Always learning, always coding.
+</h3>
 
 ###
 
